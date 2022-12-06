@@ -12,4 +12,6 @@
 > Everyone you meet is fighting a battle you know nothing about. Be kind. Always. 
 
 > Love always wins. 
+
 >> Make love. Not war.  
+>>> End of quotes
