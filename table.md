@@ -15,10 +15,4 @@
 
 >> Make love. Not war.  
 >>> End of quotes
-<<<<<<< HEAD
-
-git log -p
-second conflict
-=======
 third conflict
->>>>>>> k2-delete-text
