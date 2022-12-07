@@ -7,13 +7,11 @@
 4|Pupol|26
 
 ## Цитаты
-> Per aspera ad astra.
-
+> Per aspera ad astra!
+!!
 > Everyone you meet is fighting a battle you know nothing about. Be kind. Always. 
 
 > Love always wins. 
 
 >> Make love. Not war.  
 >>> End of quotes
-
-git log -p
