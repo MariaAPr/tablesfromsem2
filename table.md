@@ -15,3 +15,5 @@
 
 >> Make love. Not war.  
 >>> End of quotes
+
+git log -p
